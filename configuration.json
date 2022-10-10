@@ -1,0 +1,32 @@
+[
+  {
+    "repository": "github.com/backstage/backstage",
+    "revisions": [
+      "HEAD"
+    ]
+  },
+  {
+    "repository": "github.com/Intility/vscode-backstage",
+    "revisions": [
+      "HEAD"
+    ]
+  },
+  {
+    "repository": "github.com/backstage/mkdocs-monorepo-plugin",
+    "revisions": [
+      "HEAD"
+    ]
+  },
+  {
+    "repository": "github.com/RoadieHQ/roadie-backstage-plugins",
+    "revisions": [
+      "HEAD"
+    ]
+  },
+  {
+    "repository": "github.com/backstage/mkdocs-techdocs-core",
+    "revisions": [
+      "HEAD"
+    ]
+  }
+]
