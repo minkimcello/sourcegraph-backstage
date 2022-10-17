@@ -6,13 +6,13 @@
     ]
   },
   {
-    "repository": "github.com/Intility/vscode-backstage",
+    "repository": "github.com/backstage/mkdocs-monorepo-plugin",
     "revisions": [
       "HEAD"
     ]
   },
   {
-    "repository": "github.com/backstage/mkdocs-monorepo-plugin",
+    "repository": "github.com/backstage/mkdocs-techdocs-core",
     "revisions": [
       "HEAD"
     ]
@@ -24,7 +24,157 @@
     ]
   },
   {
-    "repository": "github.com/backstage/mkdocs-techdocs-core",
+    "repository": "github.com/Intility/vscode-backstage",
+    "revisions": [
+      "HEAD"
+    ]
+  },
+  {
+    "repository": "github.com/alefcarlos/plusultra-dotnet-backstage-plugins",
+    "revisions": [
+      "HEAD"
+    ]
+  },
+  {
+    "repository": "github.com/arhill05/backstage-plugin-scaffolder-git-actions",
+    "revisions": [
+      "HEAD"
+    ]
+  },
+  {
+    "repository": "github.com/awslabs/aws-proton-plugins-for-backstage",
+    "revisions": [
+      "HEAD"
+    ]
+  },
+  {
+    "repository": "github.com/BESTSELLER/backstage-plugin-harbor",
+    "revisions": [
+      "HEAD"
+    ]
+  },
+  {
+    "repository": "github.com/BESTSELLER/backstage-plugin-harbor-backend",
+    "revisions": [
+      "HEAD"
+    ]
+  },
+  {
+    "repository": "github.com/cloudify-cosmo/backstage-cloudify-plugin",
+    "revisions": [
+      "HEAD"
+    ]
+  },
+  {
+    "repository": "github.com/cloud-carbon-footprint/ccf-backstage-plugin",
+    "revisions": [
+      "HEAD"
+    ]
+  },
+  {
+    "repository": "github.com/cortexapps/backstage-plugin",
+    "revisions": [
+      "HEAD"
+    ]
+  },
+  {
+    "repository": "github.com/GoogleContainerTools/kpt-backstage-plugins",
+    "revisions": [
+      "HEAD"
+    ]
+  },
+  {
+    "repository": "github.com/immobiliare/backstage-plugin-ldap-auth",
+    "revisions": [
+      "HEAD"
+    ]
+  },
+  {
+    "repository": "github.com/jquad-group/backstage-jquad",
+    "revisions": [
+      "HEAD"
+    ]
+  },
+  {
+    "repository": "github.com/K-Phoen/backstage-plugin-grafana",
+    "revisions": [
+      "HEAD"
+    ]
+  },
+  {
+    "repository": "github.com/K-Phoen/backstage-plugin-opsgenie",
+    "revisions": [
+      "HEAD"
+    ]
+  },
+  {
+    "repository": "github.com/loblaw-sre/backstage-plugin-gitlab",
+    "revisions": [
+      "HEAD"
+    ]
+  },
+  {
+    "repository": "github.com/okayhq/backstage-plugin",
+    "revisions": [
+      "HEAD"
+    ]
+  },
+  {
+    "repository": "github.com/Oriflame/backstage-plugins",
+    "revisions": [
+      "HEAD"
+    ]
+  },
+  {
+    "repository": "github.com/purple-technology/backstage-aws-cloudformation-plugin",
+    "revisions": [
+      "HEAD"
+    ]
+  },
+  {
+    "repository": "github.com/rootlyhq/backstage-plugin",
+    "revisions": [
+      "HEAD"
+    ]
+  },
+  {
+    "repository": "github.com/snyk-tech-services/backstage-plugin-snyk",
+    "revisions": [
+      "HEAD"
+    ]
+  },
+  {
+    "repository": "github.com/thefrontside/backstage",
+    "revisions": [
+      "HEAD"
+    ]
+  },
+  {
+    "repository": "github.com/TRIMM/plugin-dependencytrack",
+    "revisions": [
+      "HEAD"
+    ]
+  },
+  {
+    "repository": "github.com/vippsas/backstage-azure-resource-frontend",
+    "revisions": [
+      "HEAD"
+    ]
+  },
+  {
+    "repository": "github.com/vippsas/backstage-azure-resources-backend",
+    "revisions": [
+      "HEAD"
+    ]
+  },
+  {
+    "repository": "github.com/zalando/backstage-plugin-api-linter",
+    "revisions": [
+      "HEAD"
+    ]
+  },
+  {
+    "repository": "github.com/zalopay-oss/backstage-grpc-playground",
     "revisions": [
       "HEAD"
     ]
