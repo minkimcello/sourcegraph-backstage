@@ -54,12 +54,6 @@
     ]
   },
   {
-    "repository": "github.com/BESTSELLER/backstage-plugin-harbor-backend",
-    "revisions": [
-      "HEAD"
-    ]
-  },
-  {
     "repository": "github.com/cloudify-cosmo/backstage-cloudify-plugin",
     "revisions": [
       "HEAD"
@@ -109,12 +103,6 @@
   },
   {
     "repository": "github.com/loblaw-sre/backstage-plugin-gitlab",
-    "revisions": [
-      "HEAD"
-    ]
-  },
-  {
-    "repository": "github.com/okayhq/backstage-plugin",
     "revisions": [
       "HEAD"
     ]
